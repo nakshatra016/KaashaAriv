@@ -32,14 +32,6 @@ KaashaAriv is a full-stack AI-powered financial intelligence platform that trans
 
 ---
 
-## 📁 Project Structure
-
-KaashaAriv/
- frontend/   # Next.js UI
- backend/    # FastAPI server
- docs/       # Documentation
-
----
 
 ## ⚙️ How It Works
 
